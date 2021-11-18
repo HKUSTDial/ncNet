@@ -61,7 +61,14 @@ Run `test.py` to eval ncNet.
 # Citing ncNet
 
 ```bibTeX
-@ARTICLE{9617561,  author={Luo, Yuyu and Tang, Nan and Li, Guoliang and Tang, Jiawei and Chai, Chengliang and Qin, Xuedi},  journal={IEEE Transactions on Visualization and Computer Graphics},   title={Natural Language to Visualization by Neural Machine Translation},   year={2021},  volume={},  number={},  pages={1-1},  doi={10.1109/TVCG.2021.3114848}}
+@ARTICLE{ncnet,  
+author={Luo, Yuyu and Tang, Nan and Li, Guoliang and Tang, Jiawei and Chai, Chengliang and Qin, Xuedi},  
+journal={IEEE Transactions on Visualization and Computer Graphics},   
+title={Natural Language to Visualization by Neural Machine Translation},   
+year={2021},  
+volume={},  
+number={},  
+pages={1-1},  doi={10.1109/TVCG.2021.3114848}}
 ```
 
 # License
