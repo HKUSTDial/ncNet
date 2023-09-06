@@ -23,7 +23,7 @@ Please refer to our [paper](https://github.com/Thanksyy/Vega-Zero/blob/main/ncNe
 
 # Environment Setup
 
-* `Python3.6+`
+* `Python3.6 or Python3.7`
 * `PyTorch 1.7` 
 * `torchtext 0.8`
 * `ipyvega`
