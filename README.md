@@ -75,4 +75,4 @@ pages={1-1},  doi={10.1109/TVCG.2021.3114848}}
 The project is available under the [MIT License](https://github.com/Thanksyy/Vega-Zero/blob/main/README.md).
 
 # Contact
-If you have any questions, feel free contact Yuyu Luo (luoyy18 [AT] mails.tsinghua.edu.cn).
+If you have any questions, feel free to contact Yuyu Luo (yuyuluo [AT] hkust-gz.edu.cn).
